@@ -4,7 +4,7 @@ site:
   author: Wookr
 
 source:
-  repo: example
+  repo: bent2685/wookr-repo-example
   branch: main
 
 nav:
